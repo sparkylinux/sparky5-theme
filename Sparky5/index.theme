@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Sparky5
+Comment=A Light Material Design-like flat theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Sparky5
+MetacityTheme=Sparky5
+CursorTheme=Breeze_cursors
